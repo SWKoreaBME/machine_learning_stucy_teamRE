@@ -1,2 +1,5 @@
-# machine_learning_stucy_teamRE
+# Machine Learning Study 
+
+## by Team Re
+
 This is for machine learning study in Team RE
